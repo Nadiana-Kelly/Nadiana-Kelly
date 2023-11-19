@@ -1,11 +1,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nadiana;I'm+22+years+old;I+from+Brasil,+CE;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=Nadiana-Kelly&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=Nadiana-Kelly&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<br>
-
 ### Socials
 
   <a href="https://www.instagram.com/nadianakelly/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
