@@ -1,7 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Nadiana;I'm+22+years+old;I+from+Brasil,+CE;I+study+computer+science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<br><br>
 
 <div style="display: inline_block">
   <img align="center" alt="Nadiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
