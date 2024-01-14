@@ -31,6 +31,8 @@
   <a href="https://www.linkedin.com/in/nadiana-kelly-66595a261/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <div align="right">
-  <img  src="https://github.com/Nadiana-Kelly/Nadiana-Kelly/assets/82840116/051aaa97-dc0a-44a0-8c01-162efde9a16d.png">
+   <a href="https://github.com/Nadiana-Kelly">
+     <img  src="https://github.com/Nadiana-Kelly/Nadiana-Kelly/assets/82840116/051aaa97-dc0a-44a0-8c01-162efde9a16d.png"> 
+   </a>
  </div>
 
