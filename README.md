@@ -6,7 +6,7 @@
 </h1>
 
 - 💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Graduanda em Ciência da Computação na Universidade Federal do Ceará.
+- 🎓 Graduada em Ciência da Computação pela Universidade Federal do Ceará.
 - 🖥️ Técnica em informática.
 <br><br>
 
